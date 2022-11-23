@@ -1,3 +1,8 @@
+![stability-stable](https://img.shields.io/badge/stability-stable-green.svg)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/HelmholtzAI-Consultants-Munich/DL-lecture-tutorials)
+
+
 # DL-lecture-tutorials
 
 We developed an inclusive crash course for the introduction to Deep Learning (DL) and its medical applications.
