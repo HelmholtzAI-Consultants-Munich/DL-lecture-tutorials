@@ -3,11 +3,9 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/HelmholtzAI-Consultants-Munich/DL-lecture-tutorials)
 
 
-# DL-lecture-tutorials
+# DL-lecture-tutorials @ TranslaTUM 2023
 
-Translatum
-
-We developed an inclusive crash course for the introduction to Deep Learning (DL) and its medical applications.
+This is a crash course for the introduction to Deep Learning (DL) and its medical applications.
 The goals of the lecture are:
 - Demystify AI
 - present applications to the medical domain
