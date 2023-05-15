@@ -5,6 +5,8 @@
 
 # DL-lecture-tutorials
 
+Translatum
+
 We developed an inclusive crash course for the introduction to Deep Learning (DL) and its medical applications.
 The goals of the lecture are:
 - Demystify AI
