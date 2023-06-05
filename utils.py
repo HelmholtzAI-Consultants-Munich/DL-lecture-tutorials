@@ -25,7 +25,7 @@ def get_MedNIST_dataframe(percentage_to_treat=None):
     # for the classification algorithm with pytorch
 
     base_path = '/content/drive/MyDrive/DL-lecture-tutorials/'
-    if not os.path.exists('MedNIST_0.5.zip'):
+    if not os.path.exists(base_path + 'MedNIST_0.5.zip'):
         subprocess.run(['curl', '-L', 'https://www.dropbox.com/s/wrbfk4o63f3cn5k/MedNIST_0.5.zip?dl=1',' > ',
                        base_path + 'MedNIST_0.5.zip'])
 
